@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522131095 source:c:\users\Анна\documents\Лаба по ООП №1\main.cpp
+	<iostream>
+	<fstream>
+	<stdexcept>
+
